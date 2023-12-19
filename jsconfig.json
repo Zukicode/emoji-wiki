@@ -1,0 +1,4 @@
+{
+	"compilerOptions": { "baseUrl": "src" },
+	"include": ["jsconfig.json", "src"]
+}

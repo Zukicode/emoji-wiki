@@ -1,0 +1,23 @@
+.notFound {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+
+	img {
+		width: 100%;
+		max-width: 300px;
+	}
+
+	h1 {
+		font-size: 26px;
+		font-weight: 300;
+		color: var(--white);
+	}
+
+	p {
+		color: #8f959e;
+		font-weight: 300;
+		text-align: center;
+	}
+}
