@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac0d41a5.css",
-    "main.js": "/static/js/main.1002feef.js",
-    "static/media/bird.webp": "/static/media/bird.272c2d6b1539400eb903.webp",
-    "index.html": "/index.html",
-    "main.ac0d41a5.css.map": "/static/css/main.ac0d41a5.css.map",
-    "main.1002feef.js.map": "/static/js/main.1002feef.js.map"
+    "main.css": "/emoji-wiki/static/css/main.ac0d41a5.css",
+    "main.js": "/emoji-wiki/static/js/main.3ad45fd1.js",
+    "static/media/bird.webp": "/emoji-wiki/static/media/bird.272c2d6b1539400eb903.webp",
+    "index.html": "/emoji-wiki/index.html",
+    "main.ac0d41a5.css.map": "/emoji-wiki/static/css/main.ac0d41a5.css.map",
+    "main.3ad45fd1.js.map": "/emoji-wiki/static/js/main.3ad45fd1.js.map"
   },
   "entrypoints": [
     "static/css/main.ac0d41a5.css",
-    "static/js/main.1002feef.js"
+    "static/js/main.3ad45fd1.js"
   ]
 }
