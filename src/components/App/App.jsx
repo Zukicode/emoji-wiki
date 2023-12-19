@@ -71,8 +71,9 @@ export const App = () => {
 				handleSearch={handleSearch}
 			/>
 
-			{isEmpty && <NotFound />}
-			{data.length === 0 && !isEmpty ? (
+			{isEmpty ? (
+				<NotFound />
+			) : data.length === 0 && !isEmpty ? (
 				<Welcome handleSearch={handleSearch} />
 			) : (
 				<Emojis search={search} data={data} />
